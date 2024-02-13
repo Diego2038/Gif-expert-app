@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test component GifItem should to match with the snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Title # 1"
+      aria-label="img-test"
+      src="https://www.google.com/"
+    />
+    <p>
+      Title # 1
+    </p>
+  </div>
+</div>
+`;
